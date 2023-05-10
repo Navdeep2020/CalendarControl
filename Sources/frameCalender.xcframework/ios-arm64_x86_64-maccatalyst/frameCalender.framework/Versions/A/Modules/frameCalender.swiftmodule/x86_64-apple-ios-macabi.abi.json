@@ -484,6 +484,46 @@
               "AccessControl"
             ],
             "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "fetchData",
+            "printedName": "fetchData()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13frameCalender13TestframeWorkC9fetchDatayyF",
+            "mangledName": "$s13frameCalender13TestframeWorkC9fetchDatayyF",
+            "moduleName": "frameCalender",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "printji",
+            "printedName": "printji()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:13frameCalender13TestframeWorkC7printjiyyF",
+            "mangledName": "$s13frameCalender13TestframeWorkC7printjiyyF",
+            "moduleName": "frameCalender",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
           }
         ],
         "declKind": "Class",

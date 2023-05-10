@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			95efCxbxOGU27BccpPilLyc5cLm4UTGbqdR2v5h6qPw=
+			ow/DlWUQNO3l/ZWZuPHB/9dMTv8ivRB3MqBaiWNwwt4=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWBDzmZzptm4ocKNI/mGeRWcGSmkFA5TqnHZNbq0BWs=
+			ppJ+YKtzDAanf6BfMr9rv1SrnnBjg5OF/CDux2p6vbs=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eWBDzmZzptm4ocKNI/mGeRWcGSmkFA5TqnHZNbq0BWs=
+			ppJ+YKtzDAanf6BfMr9rv1SrnnBjg5OF/CDux2p6vbs=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q3TLg8OmeFUFLi1NRDFtVtHgZHpkDNM5QOSN2SXXUrs=
+			Y+PEze3hI6xtNjAFdy/+UuIdFF1iEeoisU4GiZkDUi0=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			95efCxbxOGU27BccpPilLyc5cLm4UTGbqdR2v5h6qPw=
+			ow/DlWUQNO3l/ZWZuPHB/9dMTv8ivRB3MqBaiWNwwt4=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WPj+isaPwwwhIWh/KTJMOwIu9CfrNfQjWHOYdw0ZEvY=
+			gYBrXoUNhXLU3ZpEp3xscPo3xx9c6RwVVxjK5ciD/NY=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WPj+isaPwwwhIWh/KTJMOwIu9CfrNfQjWHOYdw0ZEvY=
+			gYBrXoUNhXLU3ZpEp3xscPo3xx9c6RwVVxjK5ciD/NY=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mEw5jX58cCH++okxdWACkBsIUc7vsjart9w+MDI91IA=
+			IpJwtUfEVQu12yIWzUvuPEf9SsCW8xPRUU2tkvJb9SU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

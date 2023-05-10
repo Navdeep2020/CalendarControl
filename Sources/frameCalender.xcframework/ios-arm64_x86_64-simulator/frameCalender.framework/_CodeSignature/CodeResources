@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		j1dKctsr5X5ZF4frj5myd14UKGA=
+		dzdmyJCrlwi+Y6wdFwYyB88wNmE=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		+9MrWCBUA8v7SVqIjoR5J3fleWA=
+		WbL7ycy6rl5tuUNNBV0FQHYCpXk=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		+9MrWCBUA8v7SVqIjoR5J3fleWA=
+		WbL7ycy6rl5tuUNNBV0FQHYCpXk=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		OvOCr0eA3rkrcHi0mmnXYdnFDDI=
+		ECyIlZk+VuMnmvYlqNpUq76Nfow=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		j1dKctsr5X5ZF4frj5myd14UKGA=
+		dzdmyJCrlwi+Y6wdFwYyB88wNmE=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		UkfNEdqGhxALeUJpw/S7V0xoNy0=
+		jQN8jy//eE+GpY1RDuRmNK0Kpto=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		UkfNEdqGhxALeUJpw/S7V0xoNy0=
+		jQN8jy//eE+GpY1RDuRmNK0Kpto=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Cjls8MSB5YG8Hq1WvNB5Hn4PKv4=
+		2GV/piBhhA70jad8bkiYPD156wo=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			95efCxbxOGU27BccpPilLyc5cLm4UTGbqdR2v5h6qPw=
+			ow/DlWUQNO3l/ZWZuPHB/9dMTv8ivRB3MqBaiWNwwt4=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vKnAc2MZGS3EEa7bfKoaKJLu5V+HhDbaA5rkMUUHwYM=
+			VO9IUH3Rtc9hsxAAXgsqclGKU02NC2nltlMrxRKtfR0=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vKnAc2MZGS3EEa7bfKoaKJLu5V+HhDbaA5rkMUUHwYM=
+			VO9IUH3Rtc9hsxAAXgsqclGKU02NC2nltlMrxRKtfR0=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/jpO+hyJc9RmJ8ZMWurfUzOnOu8AM9JFeFjQwEaeDzw=
+			r8Fz94GA7x0fmsPDM5YqEnkQuVxBuZi4XNAKAOajW9M=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			95efCxbxOGU27BccpPilLyc5cLm4UTGbqdR2v5h6qPw=
+			ow/DlWUQNO3l/ZWZuPHB/9dMTv8ivRB3MqBaiWNwwt4=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwOVwzXf08LPRl/g9K9Z67X/4ydO2lXyC1b+uUDxyho=
+			NvUcijv8I2WQn4SR3comb3zNy/o196h4dsEVOTvuSEk=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			QwOVwzXf08LPRl/g9K9Z67X/4ydO2lXyC1b+uUDxyho=
+			NvUcijv8I2WQn4SR3comb3zNy/o196h4dsEVOTvuSEk=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			boY7Z1dXrTCDYG4cw5WmPaqeP+pUOoURrRlrgKO7E8g=
+			IrfJYU6QmqIzmDqaRHMyP2J63K/aveH8vhcJnUlWXS0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/frameCalender-Swift.h</key>
 		<data>
-		3C6O1GICK9Enj1IzBT6e+xzq/m0=
+		zzIp7VBQSpTQEHYrkjNsG38G20c=
 		</data>
 		<key>Headers/frameCalender.h</key>
 		<data>
@@ -18,11 +18,11 @@
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		1QFsFVQHvJ3PrX+1DrzD06M+J2w=
+		lwDlDCWubnv13vQeNGmx/a8OSvI=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		iAtf81GkhEEwqvgzZdGgl7RUEa4=
+		9unZcUsD3ZUHhoHhdoE+9ZeFzQc=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -30,19 +30,19 @@
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		iAtf81GkhEEwqvgzZdGgl7RUEa4=
+		9unZcUsD3ZUHhoHhdoE+9ZeFzQc=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ik+MGiOD/VIo+nxmD9jQQ8pRBts=
+		vYLm8RFK9qnhEGFRpNDS8sIBvyc=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		1QFsFVQHvJ3PrX+1DrzD06M+J2w=
+		lwDlDCWubnv13vQeNGmx/a8OSvI=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		i5aEzuYrCy8w6IqjLURTplqMJyk=
+		NkS9YeQJVDscA5PM2AnubY1iqa8=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,11 +50,11 @@
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		i5aEzuYrCy8w6IqjLURTplqMJyk=
+		NkS9YeQJVDscA5PM2AnubY1iqa8=
 		</data>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		peuR+q2bZHcMBnCvq/HQfDc8SNk=
+		rX+SFggsVnyRr6g1Pt/zLUq2N3Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cf2sEevaorLk7AdeC9jQwrNmUA6dPxUJ5GcjQJLXvus=
+			seFbxy4Dju44O/pvllnMNMgzydiddLPOrguSDD0lk9Y=
 			</data>
 		</dict>
 		<key>Headers/frameCalender.h</key>
@@ -81,14 +81,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			fYf0OL+e0vQndb/JcWQ6tWLC3Fkz8ESDkyb6pZ8LLgY=
+			Ykym7r9fU0DOThS8Iw8Y0NDtnAcGOtYeVwEQRQVuBC8=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VvbLoAcgMLIxIjSEwhzJ0qDuPNQ9fFG/gipvCWA3fMM=
+			biuDoJAxT9WZXcsjb4n9iTzm4PfFVYBGk1s1MAm45eM=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -102,28 +102,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VvbLoAcgMLIxIjSEwhzJ0qDuPNQ9fFG/gipvCWA3fMM=
+			biuDoJAxT9WZXcsjb4n9iTzm4PfFVYBGk1s1MAm45eM=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/xMjrko5pARfV/E/kPaZ+OfBnhsNmGnbSy+Ge3wx8EI=
+			dzVsZAVcXyusXJNxvcehZGsgWurjH2YjO/+LHPTNjBg=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fYf0OL+e0vQndb/JcWQ6tWLC3Fkz8ESDkyb6pZ8LLgY=
+			Ykym7r9fU0DOThS8Iw8Y0NDtnAcGOtYeVwEQRQVuBC8=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nw9PRT22JYjfLY7tVvpykRnMOEfjJ7dzZgQjHjPQOwE=
+			F29PO4WR/DcP0TcaQ1jaOpymJQ3D4R5pgrybbicCWT0=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -137,14 +137,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Nw9PRT22JYjfLY7tVvpykRnMOEfjJ7dzZgQjHjPQOwE=
+			F29PO4WR/DcP0TcaQ1jaOpymJQ3D4R5pgrybbicCWT0=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x2L+/R44SLwk+dSXRBbB7fSESOE8jAJ6W8Qcoj/c76k=
+			ioSekP27Yqqs7yGPe4FQBzgCiY7vlzHUp+dxef5jqPo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

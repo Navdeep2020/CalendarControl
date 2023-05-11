@@ -15,7 +15,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cf2sEevaorLk7AdeC9jQwrNmUA6dPxUJ5GcjQJLXvus=
+			seFbxy4Dju44O/pvllnMNMgzydiddLPOrguSDD0lk9Y=
 			</data>
 		</dict>
 		<key>Headers/frameCalender.h</key>
@@ -29,14 +29,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			17qxK5chozyZTq9IPHSzmt1Ph+Ev4QwGpeKLC4sjNRg=
+			hGpiYfpI41y5/YGZ0bZ4FWkQimOoRCRomcpt/x4hX78=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GAQVnRxU3ROYkWkDMYTB29NDo1bx2lHVoTCGXBEtMhQ=
+			SwClisFeNHYTEGNcbfrw4lr7QPG9SFkE+BruReRXqUE=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-macabi.swiftdoc</key>
@@ -50,28 +50,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GAQVnRxU3ROYkWkDMYTB29NDo1bx2lHVoTCGXBEtMhQ=
+			SwClisFeNHYTEGNcbfrw4lr7QPG9SFkE+BruReRXqUE=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/arm64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mJNliqOn0rYeP+ukAO8SP4lweOpXEOu3JPo+Xr6mILI=
+			52BKny3fwTZPWbaOeDiqT2noUY0bnaQHzXIXePQSOUA=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			17qxK5chozyZTq9IPHSzmt1Ph+Ev4QwGpeKLC4sjNRg=
+			hGpiYfpI41y5/YGZ0bZ4FWkQimOoRCRomcpt/x4hX78=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PRhUOEhpxLwrz0bvfqnUn8rJnUyCLSyX37SNQ2OFblM=
+			vWCOaIn/QBvRcbBkgZ/UC5QdPGzDzPv0aOLtiJ5ojDw=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.swiftdoc</key>
@@ -85,14 +85,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PRhUOEhpxLwrz0bvfqnUn8rJnUyCLSyX37SNQ2OFblM=
+			vWCOaIn/QBvRcbBkgZ/UC5QdPGzDzPv0aOLtiJ5ojDw=
 			</data>
 		</dict>
 		<key>Modules/frameCalender.swiftmodule/x86_64-apple-ios-macabi.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			F5aH9+MqOMKe25SbQUnsNjyha7t9vPaFwkTkZWbu67w=
+			T3pSTen/vteyYFxYmZFuTcsxikWEUF68YMtWYUVaEK8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -9,6 +9,13 @@ import UIKit
 import _Concurrency
 import _StringProcessing
 @_exported import frameCalender
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class CheckInternetViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @objc deinit
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+}
 @objc @_hasMissingDesignatedInitializers @_Concurrency.MainActor(unsafe) public class CalendarPickerViewController : UIKit.UIViewController {
   @_Concurrency.MainActor(unsafe) public init(baseDate: Foundation.Date, selectedDateChanged: @escaping ((Foundation.Date) -> Swift.Void))
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
